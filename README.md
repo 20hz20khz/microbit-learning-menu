@@ -29,23 +29,23 @@ A and B buttons MUST do something, but you get to decide what the A and B button
 -	When A and B are pressed at the same time, the sprite moves back to the center.
 
 ### Complete 5 or more of the following:
--	MakeCode Light Sensor Face
--	MakeCode Robot Arm
--	MakeCode Make A Song
--	MakeCode Musical Instrument
--	MakeCode Blink 3 LEDs
--	MakeCode Fade 2 LEDs
--	MakeCode Gyroscope Game
--	MakeCode Jumping Game
--	MakeCode Running Game
--	MakeCode DDR Game
--	MakeCode RC Car
--	MakeCode Droid
--	MicroPython Speak
--	MicroPython Sing
--	MicroPython NeoPixel
+-	[MakeCode Light Sensor Face](https://github.com/20hz20khz/microbit-learning-menu#makecode-light-sensor-face)
+-	[MakeCode Robot Arm](https://github.com/20hz20khz/microbit-learning-menu#makecode-robot-arm)
+-	[MakeCode Make A Song ](https://github.com/20hz20khz/microbit-learning-menu#makecode-make-a-song)
+-	[MakeCode Musical Instrument ](https://github.com/20hz20khz/microbit-learning-menu#makecode-musical-instrument)
+-	[MakeCode Blink 3 LEDs ](https://github.com/20hz20khz/microbit-learning-menu#makecode-blink-3-leds)
+-	[MakeCode Fade 2 LEDs ](https://github.com/20hz20khz/microbit-learning-menu#makecode-fade-2-leds)
+-	[MakeCode Gyroscope Game ](https://github.com/20hz20khz/microbit-learning-menu#makecode-gyroscope-game)
+-	[MakeCode Jumping Game ](https://github.com/20hz20khz/microbit-learning-menu#makecode-jumping-game)
+-	[MakeCode Running Game ](https://github.com/20hz20khz/microbit-learning-menu#makecode-running-game)
+-	[MakeCode DDR Game ](https://github.com/20hz20khz/microbit-learning-menu#makecode-ddr-game)
+-	[MakeCode RC Car ](https://github.com/20hz20khz/microbit-learning-menu#makecode-rc-car)
+-	[MakeCode Droid ](https://github.com/20hz20khz/microbit-learning-menu#makecode-droid)
+-	[MicroPython Speak ](https://github.com/20hz20khz/microbit-learning-menu#micropython-speak)
+-	[MicroPython Sing ](https://github.com/20hz20khz/microbit-learning-menu#micropython-sing)
+-	[MicroPython NeoPixel ](https://github.com/20hz20khz/microbit-learning-menu#micropython-neopixel)
 
-## Microbit Light Sensor Face
+## MakeCode Light Sensor Face
 
 Using the built-in light sensor (built into the LEDs), show a happy face if it is bright and a sad face if it is dark.
 
