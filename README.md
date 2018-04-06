@@ -2,6 +2,8 @@
 
 The goal of this project was to allow students to demonstrate their computer science knowledge while exploring various aspects of the BBC Microbit. In addition to the device itself, we also used alligator clips, speakers, LEDs, NeoPixels, standard 9-gram servos, continuous rotation servos, cardboard, and tin foil.
 
+[![YouTube video of our BBC MicroBit projects](http://img.youtube.com/vi/ceZ3xELcZFQ/0.jpg)](http://www.youtube.com/watch?v=ceZ3xELcZFQ)
+
 ## Simulation Preparation
 
 A few days prior to actually working with the device, students researched the Microbit and it's built-in sensors. They went to microbit.org and started using the block-based editor (and the Javascript editor) and previewing their result with the simulated Microbit. For simple starter activities, students displayed "Hello World" on the matrix, created a countdown time, and created a simple counting app in which A button increase the count and B button decreased the count.
@@ -44,8 +46,6 @@ A and B buttons MUST do something, but you get to decide what the A and B button
 -	[MicroPython Speak ](https://github.com/20hz20khz/microbit-learning-menu#micropython-speak)
 -	[MicroPython Sing ](https://github.com/20hz20khz/microbit-learning-menu#micropython-sing)
 -	[MicroPython NeoPixel ](https://github.com/20hz20khz/microbit-learning-menu#micropython-neopixel)
-
-[![YouTube video of our BBC MicroBit projects](http://img.youtube.com/vi/ceZ3xELcZFQ/0.jpg)](http://www.youtube.com/watch?v=ceZ3xELcZFQ)
 
 ## MakeCode Light Sensor Face
 
