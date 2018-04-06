@@ -45,6 +45,8 @@ A and B buttons MUST do something, but you get to decide what the A and B button
 -	[MicroPython Sing ](https://github.com/20hz20khz/microbit-learning-menu#micropython-sing)
 -	[MicroPython NeoPixel ](https://github.com/20hz20khz/microbit-learning-menu#micropython-neopixel)
 
+[![YouTube video of our BBC MicroBit projects](http://img.youtube.com/vi/ceZ3xELcZFQ/0.jpg)](http://www.youtube.com/watch?v=ceZ3xELcZFQ)
+
 ## MakeCode Light Sensor Face
 
 Using the built-in light sensor (built into the LEDs), show a happy face if it is bright and a sad face if it is dark.
